@@ -20,7 +20,7 @@ iframe {
 .layui-body {
   overflow: hidden;
 }
-
+/*强行删除<a>链接的CSS3动画*/
 a {
   transition: none !important;
 }
